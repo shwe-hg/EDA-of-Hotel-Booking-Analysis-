@@ -1,10 +1,17 @@
 # EDA-of-Hotel-Booking-Analysis-
 ## Project Summary -
-Have you ever wondered when the best time of year to book a hotel room is? Or the optimal length of stay in order to get the best daily rate? What if you wanted to predict whether or not a hotel was likely to receive a disproportionately high number of special requests? This hotel booking dataset can help you explore those questions!
 
-This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. All personally identifying information has been removed from the data.
+This project related to Hotel Booking Analysis having two hotel description i.e 'City Hotel' and 'Resort Hotel'.This database contains total 119390 rows and 32 columns . This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
 
-Explore and analyze the data to discover important factors that govern the bookings.
+We divided the project in many parts those are Importing the necessary python labraries , Data collection , Data Pre Processing , EDA and Conclusion .
+
+first step is to importing labraries i.e numpy , pandas , matplotlib.pyplot , seaborn . second step is data collection in this we find different columns which are done by using Head() , tail() ,info(),describe(),columns().
+
+We dropped some duplicate rows by using drop() . we deleted some of null values present in the database .
+
+In this EDA i try to come up with some questions and answered them using python topics like data wrangling , data visualization . And i have used different charts for data visualization
+
+
 
 
 ## Problem Statement
